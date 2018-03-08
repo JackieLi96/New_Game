@@ -1,2 +1,2 @@
-# New_Game
-Game assignment 
+# JSPlatformer
+JS Platformer for DIG 3480C

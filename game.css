@@ -1,0 +1,13 @@
+.background    { background: rgb(141, 194, 210);
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.water          { background: rgb(19, 91, 145); }
+.wall          { background: #60583F;   }
+.briar		   { background: rgb(51, 102, 0); }
+.cloud		   { background: #FFFFFF; }
+.floater		   { background: #FFC200; }
+
+.game {
+  position: relative;
+}
